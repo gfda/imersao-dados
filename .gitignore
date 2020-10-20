@@ -1,0 +1,6 @@
+# Pychache
+__pycache__/
+
+# ipynb - Jupyter notebook
+.ipynb_checkpoints/
+venv
